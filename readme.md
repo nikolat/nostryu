@@ -14,10 +14,10 @@ Sender: Node.js
 Event: OnNostr
 Reference0: Nostr/0.3
 Reference1: note(kind)
-Reference1: おはノスー！(content)
-Reference2: nosuta(name)
-Reference3: のす太(display_name)
-Reference4: https://example.com/avatar.png(picture)
+Reference2: おはノスー！(content)
+Reference3: nosuta(name)
+Reference4: のす太(display_name)
+Reference5: https://example.com/avatar.png(picture)
 Option: nobreak
 Script: \0おはノスー！\e
 ```
