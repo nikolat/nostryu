@@ -7,7 +7,7 @@ class ShioriEngine {
 
 	#nostrutil?: NostrUtil;
 	#pubkey?: string;
-	#pluginVersion = 'nostryu/0.1';
+	#pluginVersion = 'nostryu/0.2';
 	
 	load = (dirpath: string) => {};
 
