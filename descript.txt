@@ -1,0 +1,10 @@
+charset,UTF-8
+type,plugin
+name,Nostrゅう
+id,a80c8840-f39e-11ee-96b0-0800200c9a66
+filename,SHIOLINK.dll
+craftman,Don
+craftmanurl,
+homeurl,
+secondchangeinterval,0
+readme.charset,UTF-8
