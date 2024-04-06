@@ -1,0 +1,9 @@
+.git,nonar,noupdate
+SHIOLINK.log,nonar,noupdate
+node_modules/@types/node/,nonar,noupdate
+node_modules/narmaker/,nonar,noupdate
+node_modules/normalize-path/,nonar,noupdate
+node_modules/npm-run-all/,nonar,noupdate
+node_modules/shx/,nonar,noupdate
+node_modules/tslint/,nonar,noupdate
+node_modules/typescript/,nonar,noupdate
